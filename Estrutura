@@ -8,4 +8,4 @@ Loteria
 │   ├──Arquivo JSON gerado com codigo BuscaJogos.py
 ├── Teste.py
 │   ├──Arquivo de teste e implementações de ideias
-└── Estrutura
+└── requirements. txt
