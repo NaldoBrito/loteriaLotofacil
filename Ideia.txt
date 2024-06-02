@@ -1,0 +1,12 @@
+# Dica no1: Equilibre a quantidade de pares e impares.
+faça um levantamentos da maioria dos jogos premiados desde o inicio do concurso e veja os resultados.
+verifique números pares ou impares que não são premiadas facilmente.
+simulamos um resultado de 14 pontos e observe que tivemos um resultado com 9 numeros impares e 6 numeros pares
+Se você pensar no bilhete que contem 25 numeros, sendo eles, 13 impares e 12 pares, matematicamente
+falando os números impares tem mais chances de estarem entre os sorteados.
+caso seja gerado jogos com 10 numeros pares ou impares pode retira-los da
+suas apostas pois as chances de ganhar são baixas !
+# Dica no2: Use números PRIMOS.
+# Dica no3: Soma das dezenas
+# Dica no4: Os números que podem te atrapalhar ou ajudar.
+# Dica no5: A PLANILHA É ESSENCIAL.

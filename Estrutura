@@ -1,0 +1,11 @@
+caminho_projeto = '/Users/francinaldobrito/Desktop/Loteria/'
+Loteria
+├── BuscaJogos.py
+│   ├──Busca todos os jogos da Lotofacil e salva em um arquivo .json
+├── GeradorLotoFacil.py
+│   ├──Mostra a probalidade de cada numero de cada sorteio e os últimos 10 jogos, também gera jogos com as análise, estatísticas e probabilidade.
+├── LotoFacil.json
+│   ├──Arquivo JSON gerado com codigo BuscaJogos.py
+├── Teste.py
+│   ├──Arquivo de teste e implementações de ideias
+└── Estrutura
